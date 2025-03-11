@@ -38,6 +38,10 @@
   {
     "title": "SQL",
     "imageSrc": "skills/sql.png"
+  },
+  {
+    "title": "Typescript",
+    "imageSrc": "skills/typescript.png"
   }
 
 ]
