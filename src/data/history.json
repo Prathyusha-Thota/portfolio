@@ -1,0 +1,19 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Vosyn",
+    "startDate": "Jan, 2025",
+    "endDate": "Present",
+    "experiences": ["Software Engineer Intern, optimizing AI-powered web applications with React, JavaScript, Python, and enhancing UI performance."],
+    "imageSrc": "history/Vosyn.png"
+  },
+  {
+    "role": "Associate Product Engineer",
+    "organisation": "Temenos",
+    "startDate": "March, 2022",
+    "endDate": "July, 2023",
+    "experiences": ["Developed and optimized core banking applications with React, TypeScript, JSX, Node.js, and Java, enhancing UX and performance through Micro Frontend Architecture and TDD."],
+    "imageSrc": "history/Temenos.png"
+  }
+  
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "title": "Payroll Management",
+    "imageSrc": "projects/Payroll.png",
+    "description": "A modular and responsive payroll management system designed to automate salary processing and employee records, ensuring scalability and resilience using AWS and Chaos Engineering.",
+    "skills": ["HTML", "CSS", "Python (Flask)", "SQL", "AWS", "Terraform"],
+    "features": [
+      "Automated payroll processing",
+      "AWS integration for scalability",
+      "Resilience testing with Chaos Engineering",
+      "Infrastructure as Code using Terraform"
+    ],
+    
+    "source": "https://github.com/Prathyusha-Thota/Payroll-Management"
+  },
+  {
+    "title": "Parking Slot Booking System",
+    "imageSrc": "projects/Parking.jpg",
+    "description": "A web-based parking slot reservation system enabling users to book, modify, and manage parking spots with real-time availability tracking.",
+    "skills": ["HTML", "CSS", "Python (Flask)", "MongoDB"],
+    "features": [
+      "Secure user authentication",
+      "Real-time parking slot management",
+      "Interactive UI with HTML/CSS",
+      "MongoDB for dynamic data storage"
+    ],
+   
+    "source": "https://github.com/Prathyusha-Thota/ProjectsRepo/tree/main"
+  }
+
+]
