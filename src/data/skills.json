@@ -42,6 +42,14 @@
   {
     "title": "Typescript",
     "imageSrc": "skills/typescript.png"
+  },
+   {
+    "title": "aws",
+    "imageSrc": "skills/aws.png"
+  },
+   {
+    "title": "Terraform",
+    "imageSrc": "skills/terraform.png"
   }
 
 ]
